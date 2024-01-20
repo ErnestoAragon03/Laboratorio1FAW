@@ -1,0 +1,283 @@
+Especificaciones técnicas
+
+Imagen/Pantalla
+
+Tecnología AMD FreeSync™: Sí
+
+Tipo de panel LCD: tecnología IPS
+
+Tipo de luz de fondo: Sistema W-LED
+
+Tamaño del panel: 34 pulgadas/86,36 cm
+
+Revestimiento de pantalla: Antideslumbrante, 3H, Neblina 25%
+
+Área de visualización efectiva: 799,8 (Alto) x 334,8 (V) mm
+
+relación de aspecto: 21:9
+
+Resolución Máxima: 2560 x 1080 a 75 Hz*
+
+Densidad de píxeles: 82 ppp
+
+Tiempo de respuesta (típico): 4 ms (gris a gris)*
+
+MPRT: 1 ms
+
+Brillo: 300 cd/m²
+
+Relación de contraste (típica): 1000:1
+
+Contraste inteligente: Mega Infinito DCR
+
+Tamaño de píxel: 0,31242 x 0,31000 milímetros
+
+Ángulo de visión
+
+-178º (H) / 178º (V)
+
+-@ C/R > 10
+
+Sin destellos Sí
+
+Mejora de imagenJuego SmartImage
+
+Gama de colores (típica): NTSC 109,5 %*, sRGB 123,1 %*
+
+Colores de pantalla: 16,7 millones
+
+Frecuencia de escaneo: 30 - 99 kHz (H) / 48 - 75 Hz (V)
+
+Modo azul bajo: Sí
+
+lectura fácil: Sí
+
+sRGB: Sí
+
+Conectividad
+
+Entrada de señal
+
+-DisplayPort x 1, HDMI x 2, USB-C x 1 (modo DP Alt, suministro de energía de hasta 65 W)
+
+Entrada de sincronización: Sincronización separada
+
+Audio (entrada/salida): Salida de audio
+
+
+
+Conveniencia
+
+Vista múltiple
+
+-Modo PIP/PBP
+
+-2x dispositivos
+
+Comodidad del usuario
+
+-Encendido / apagado
+
+-Menú
+
+-Brillo
+
+-Aporte
+
+-Juego de imagen inteligente
+
+Idiomas OSD
+
+-Brasil portugués
+
+-Checo
+
+-Holandés
+
+-Inglés
+
+-Finlandés
+
+-Francés
+
+-Alemán
+
+-Griego
+
+-Húngaro
+
+-Italiano
+
+-Japonés
+
+-Coreano
+
+-Polaco
+
+-Portugués
+
+-Ruso
+
+-Chino simplificado
+
+-Español
+
+-Sueco
+
+-Chino tradicional
+
+-Turco
+
+-Ucranio
+
+Otra conveniencia
+
+-cerradura Kensington
+
+-Soporte VESA (100x100mm)
+
+Compatibilidad Plug & Play
+
+-DDC/CI
+
+-Mac OS X
+
+-sRGB
+
+-Ventanas 10/8.1/8/7
+
+Pararse
+
+Ajuste de altura: 100mm
+
+Inclinación: -5/20 grados
+
+Fuerza
+
+En modo: 22,36 W (típico) (método de prueba EnergyStar)
+
+Modo de espera: 0,5 W (típico)
+
+Modo apagado: 0,3 W (típico)
+
+Indicador LED de encendido
+
+-Operación - Blanco
+
+-Modo de espera: blanco (parpadeante)
+
+Fuente de alimentación
+
+-Externo
+
+-100-240 VCA, 50-60 Hz
+
+
+
+Dimensiones Aproximadas
+
+Producto con soporte (altura máxima): 817x491x235mm
+
+Producto con soporte (altura máxima): 32,2 x 19,3 x 9,3 pulgadas
+
+Producto sin soporte (mm): 817x365x49mm
+
+Producto sin soporte en pulgadas: 32,2 x 14,4 x 1,9 pulgadas
+
+Embalaje en mm (AnxAlxPr): 930x525x186mm
+
+Embalaje en pulgadas (WxHxD): 36,6 x 20,7 x 7,3 pulgadas
+
+Peso Aproximado
+
+Producto con soporte (kg): 7,69 kilogramos
+
+Producto con soporte (lb): 16,92 libras
+
+Producto sin soporte (kg): 5,73 kilogramos
+
+Producto sin soporte (lb): 12,61 libras
+
+Producto con embalaje (kg): 10,31 kilogramos
+
+Producto con embalaje (lb): 22,68 libras
+
+Condiciones de operación
+
+Rango de temperatura (funcionamiento): 0 a 40 ºC
+
+Rango de temperatura (almacenamiento): -20 a 60°C
+
+Humedad relativa: 20%-80%
+
+Altitud: Operación: +12,000 pies (3,658 m), Sin operación: +40,000 pies (12,192 m)
+
+MTBF: 50.000 horas (sin incluir la retroiluminación) hora(s)
+
+Sostenibilidad
+
+Medio ambiente y energía
+
+-EnergíaStar 8.0
+
+-RoHS
+
+-Libre de mercurio
+
+Material de embalaje reciclable: 100 %
+
+Cumplimiento y estándares
+
+Aprobaciones regulatorias
+
+-CB
+
+-EPA
+
+-cETLus
+
+-Clase B de la FCC
+
+-CIEM-003
+
+-CCC
+
+-CECP
+
+-CEL
+
+Gabinete
+
+Color: Negro
+
+Finalizar: texturizado
+
+Contenido del empaque
+Monitor LED Philips 343E2E 34" 
+
+Soporte
+
+Base
+
+Cable HDMI
+
+Cable USB-C a USB-C
+
+Cable Display port
+
+Cable de alimentación
+
+Documentación
+
+Observaciones
+*La resolución máxima funciona para entrada USB-C, DP o HDMI.
+
+*Valor del tiempo de respuesta igual a SmartResponse
+
+*Área NTSC basada en CIE1976
+
+*Área sRGB basada en CIE1931
+
+*Para la transmisión de video a través de USB-C, su computadora portátil/dispositivo debe admitir el modo USB-C DP Alt
+
+Para la función de carga y alimentación USB-C, su computadora portátil/dispositivo debe admitir las especificaciones de suministro de energía estándar USB-C. Consulte el manual de usuario de su computadora portátil o el fabricante para obtener más detalles.
